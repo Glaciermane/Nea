@@ -7,6 +7,10 @@
     position: absolute;
     bottom: 0;
     width: 100%;
+    height: 60px; /* Höhe des Footers */
+    position: relative;
+    margin-top: -60px; /* negative margin-top um den Footer nach oben zu verschieben */
+    clear: both;
 }
 
 .footer-text {

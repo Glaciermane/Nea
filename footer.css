@@ -17,4 +17,8 @@
     color: #fff;
     font-size: 14px;
     text-align: center;
+    height: 60px; /* Höhe des Footers */
+    position: relative;
+    margin-top: -60px; /* negative margin-top um den Footer nach oben zu verschieben */
+    clear: both;
 }

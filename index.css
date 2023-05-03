@@ -19,14 +19,6 @@ body {
     text-rendering: optimizeLegibility;
 }
 
-footer {
-   background-image: url('your-image-url');
-   background-repeat: no-repeat;
-   background-size: cover;
-   background-position: center center;
-   height: 300px;
-}
-
 
 
 #loader {
@@ -458,4 +450,11 @@ a {
     }
 }
 
+footer {
+   background-image: url('your-image-url');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   height: 300px;
+}
 
